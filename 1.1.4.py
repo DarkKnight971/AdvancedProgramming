@@ -10,8 +10,6 @@ if __name__ == '__main__':
 
     result = diagonalDifference(arr)
 
-    print(result)result = diagonalDifference(arr)
-    
     print(result)
 
 def diagonalDifference(arr):
